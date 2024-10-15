@@ -7,7 +7,7 @@ image:
   caption: "Walkin' on Sunshine"
 
 author:
-  name: Sam Chung
+  name: Sam Tran
   picture: /images/sam.jpeg
   links:
     - title: Whatsapp
